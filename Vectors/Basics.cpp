@@ -3,6 +3,8 @@
 using namespace std;
 int main()
 {
+    /* 
+    ***** Basics of Vector *****
     vector<int> v;
     v.push_back(1);
     v.push_back(2);
@@ -30,6 +32,7 @@ int main()
     for (auto element : v2)
     {
         cout << "V2 : " << element << " ";
-    }
+    } */
+
     return 0;
 }
